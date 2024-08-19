@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from './Components/Header.jsx'
 import Content from './Components/Content.jsx'
-// import Footer from  './Components/Footer.jsx'
+import Footer from  './Components/Footer.jsx'
 
 
 export default function App(){
@@ -9,6 +9,7 @@ export default function App(){
         <div className="container">
             <Header />
             <Content />
+            <Footer />
         </div>        
     )
 }
