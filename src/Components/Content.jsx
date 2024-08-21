@@ -9,11 +9,11 @@ export default function Content() {
         <a href= "##">mydeen.website</a>
         <div className="buttons">
         <button id = "email-btn" className="btn">
-            <img  src="././public/email Icon.png" className="email-img" alt="Email logo"/>
+            <img  src="./email Icon.png" className="email-img" alt="Email logo"/>
                 Email
             </button>
         <button id = "linkedin-btn" className="btn">
-            <img  src="././public/linkedin Icon.png" className="linkedin-img" alt="linkedin logo"/> 
+            <img  src="./linkedin Icon.png" className="linkedin-img" alt="linkedin logo"/> 
             LinkedIn
         </button>
         </div>
